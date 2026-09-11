@@ -1,0 +1,38 @@
+body {
+    background-color: #f8f1f0; 
+
+}
+
+h1 {
+    font-size: 32px;
+    color: #b0462b;
+}
+h2 {
+    font-size: 24px;
+    color: #822c2c;
+}
+
+section {
+    background-color: #ffffff;
+    margin: 10px 0;
+    padding: 20px;
+    border: 1px solid #cbd5e0;
+    border-radius: 15px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 20%; /* 이미지를 동그랗게 만듭니다 */
+    object-fit: cover;
+}
+
+a {
+    color: #f7efee;
+    background-color: #e84839;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
